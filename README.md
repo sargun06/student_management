@@ -39,3 +39,7 @@ To exit the environment ❎
 to open the application in browser, run these commands:
 `$ source venv/Scripts/activate`
 `$ python manage.py runserver`
+
+An imagr of the dashboard
+![image](https://user-images.githubusercontent.com/55631683/195696987-59692193-e359-4198-bdd1-98549ef7232e.png)
+
