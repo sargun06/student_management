@@ -26,13 +26,14 @@ Create superuser for Admin Login
 `$ python manage.py createsuperuser`
 
 Enter your desired username, email and password.
+
     Username: admin
     
     Email: admin@admin.com 
     
     Password: Password
 
-All Set! 
+You Are All Set! 
 
 Now you can run the server to see your application up & running 
 `$ python manage.py runserver`
