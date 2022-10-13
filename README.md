@@ -27,7 +27,9 @@ Create superuser for Admin Login
 
 Enter your desired username, email and password.
     Username: admin
+    
     Email: admin@admin.com 
+    
     Password: Password
 
 All Set! 
@@ -35,7 +37,7 @@ All Set!
 Now you can run the server to see your application up & running 
 `$ python manage.py runserver`
 
-To exit the environment ❎
+To exit the environment 
 `$ deactivate`
 
 to open the application in browser, run these commands:
