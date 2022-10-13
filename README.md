@@ -5,6 +5,7 @@ Python version 3.8+
 Clone the files to local computer and start running these commands:
 
 `$ cd Django_Student_Management_System/`
+
 `$ pip install virtualenv`
 
 Create a virtual environment
@@ -18,6 +19,7 @@ Install requirements
 
 Run migrations 
 `$ python manage.py makemigrations`
+
 `$ python manage.py migrate`
 
 Create superuser for Admin Login 
@@ -38,6 +40,7 @@ To exit the environment ❎
 
 to open the application in browser, run these commands:
 `$ source venv/Scripts/activate`
+
 `$ python manage.py runserver`
 
 An image of the dashboard
